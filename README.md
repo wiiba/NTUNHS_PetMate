@@ -1,3 +1,12 @@
+NTUNHS Pet Mate
+
+本系統為國立臺北護理健康大學智慧照護科技應用課程專案。
+
+Member：
+
+- @peng940211
+- @wiiba
+
 # 虛擬寵物情緒助手（AI Pet Mood Assistant）
 
 這是一個基於 C# Windows Forms 開發的桌面虛擬陪伴系統。專案結合了本地端生成式 AI 模型與 SQLite 資料庫，將傳統的電子寵物體驗升級為具備自然語言理解與情緒追蹤的互動助手。
