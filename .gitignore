@@ -1,0 +1,21 @@
+# Visual Studio暫存與設定檔
+.vs/
+*.user
+*.suo
+*.dbmdl
+
+# 編譯輸出的垃圾檔
+bin/
+obj/
+
+# NuGet套件 (由packages.config負責還原，不需上傳實體檔)
+packages/
+
+# 資料庫與無用設定檔
+log.db
+pet.db
+s2t.json
+
+# 其他開發環境暫存
+*.cache
+*.pdb

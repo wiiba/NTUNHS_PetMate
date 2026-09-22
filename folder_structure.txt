@@ -1,0 +1,1012 @@
+D:.
+│  1.gif
+│  folder_structure.txt
+│  休息.gif
+│  休息1.gif
+│  休息2.gif
+│  可愛.gif
+│  可愛1.gif
+│  可愛2.gif
+│  可愛3.gif
+│  吃.gif
+│  吃1.gif
+│  吃2.gif
+│  吃3.gif
+│  吃4.gif
+│  吃5.gif
+│  吃6.gif
+│  寵物.sln
+│  封面.gif
+│  封面1.gif
+│  封面2.gif
+│  封面3.gif
+│  玩.gif
+│  玩1.gif
+│  玩2.gif
+│  螢幕擷取畫面 2025-05-20 211716.ico
+│  
+├─.vs
+│  └─寵物
+│      ├─CopilotIndices
+│      │  └─17.14.734.62261
+│      │          CodeChunks.db
+│      │          SemanticSymbols.db
+│      │          
+│      ├─FileContentIndex
+│      │      0ec81249-78bf-442a-a65a-52c71948d769.vsidx
+│      │      28927b98-b1c7-4bd6-adae-7ae1e7eff229.vsidx
+│      │      59c348ae-fe7d-4f7f-8e6a-290beeeaacc2.vsidx
+│      │      77b53e8d-07ab-42d9-b5ce-234331792249.vsidx
+│      │      7849e24c-a3ce-4776-bcfb-5e968d51b836.vsidx
+│      │      
+│      └─v17
+│          │  .suo
+│          │  DocumentLayout.backup.json
+│          │  DocumentLayout.json
+│          │  
+│          └─ResourceExplorer
+│                  settings.json
+│                  
+├─OpenCC
+│  └─config
+│          s2t.json
+│          
+├─packages
+│  ├─itext.9.2.0
+│  │  │  .signature.p7s
+│  │  │  gnu-agpl-v3.0.md
+│  │  │  itext.9.2.0.nupkg
+│  │  │  ITSC-avatar.png
+│  │  │  LICENSE.md
+│  │  │  NOTICE_io.txt
+│  │  │  NOTICE_kernel.txt
+│  │  │  NOTICE_layout.txt
+│  │  │  NOTICE_styledxmlparser.txt
+│  │  │  
+│  │  └─lib
+│  │      ├─net461
+│  │      │      itext.barcodes.dll
+│  │      │      itext.barcodes.xml
+│  │      │      itext.bouncy-castle-connector.dll
+│  │      │      itext.bouncy-castle-connector.xml
+│  │      │      itext.forms.dll
+│  │      │      itext.forms.xml
+│  │      │      itext.io.dll
+│  │      │      itext.io.xml
+│  │      │      itext.kernel.dll
+│  │      │      itext.kernel.xml
+│  │      │      itext.layout.dll
+│  │      │      itext.layout.xml
+│  │      │      itext.pdfa.dll
+│  │      │      itext.pdfa.xml
+│  │      │      itext.pdfua.dll
+│  │      │      itext.pdfua.xml
+│  │      │      itext.sign.dll
+│  │      │      itext.sign.xml
+│  │      │      itext.styledxmlparser.dll
+│  │      │      itext.styledxmlparser.xml
+│  │      │      itext.svg.dll
+│  │      │      itext.svg.xml
+│  │      │      
+│  │      └─netstandard2.0
+│  │              itext.barcodes.dll
+│  │              itext.barcodes.xml
+│  │              itext.bouncy-castle-connector.dll
+│  │              itext.bouncy-castle-connector.xml
+│  │              itext.forms.dll
+│  │              itext.forms.xml
+│  │              itext.io.dll
+│  │              itext.io.xml
+│  │              itext.kernel.dll
+│  │              itext.kernel.xml
+│  │              itext.layout.dll
+│  │              itext.layout.xml
+│  │              itext.pdfa.dll
+│  │              itext.pdfa.xml
+│  │              itext.pdfua.dll
+│  │              itext.pdfua.xml
+│  │              itext.sign.dll
+│  │              itext.sign.xml
+│  │              itext.styledxmlparser.dll
+│  │              itext.styledxmlparser.xml
+│  │              itext.svg.dll
+│  │              itext.svg.xml
+│  │              
+│  ├─itext.commons.9.2.0
+│  │  │  .signature.p7s
+│  │  │  itext.commons.9.2.0.nupkg
+│  │  │  ITSC-avatar.png
+│  │  │  
+│  │  └─lib
+│  │      ├─net461
+│  │      │      itext.commons.dll
+│  │      │      itext.commons.xml
+│  │      │      
+│  │      └─netstandard2.0
+│  │              itext.commons.dll
+│  │              itext.commons.xml
+│  │              
+│  ├─itext.pdfocr.api.4.0.2
+│  │  │  .signature.p7s
+│  │  │  gnu-agpl-v3.0.md
+│  │  │  itext.pdfocr.api.4.0.2.nupkg
+│  │  │  ITSC-avatar.png
+│  │  │  LICENSE.md
+│  │  │  NOTICE.txt
+│  │  │  
+│  │  └─lib
+│  │      └─net461
+│  │              itext.pdfocr.api.dll
+│  │              itext.pdfocr.api.xml
+│  │              
+│  ├─itext.pdfocr.tesseract4.4.0.2
+│  │  │  .signature.p7s
+│  │  │  gnu-agpl-v3.0.md
+│  │  │  itext.pdfocr.tesseract4.4.0.2.nupkg
+│  │  │  ITSC-avatar.png
+│  │  │  LICENSE.md
+│  │  │  NOTICE.txt
+│  │  │  
+│  │  ├─build
+│  │  │      itext.pdfocr.tesseract4.targets
+│  │  │      
+│  │  ├─lib
+│  │  │  └─net461
+│  │  │          itext.pdfocr.tesseract4.dll
+│  │  │          itext.pdfocr.tesseract4.xml
+│  │  │          Tesseract.dll
+│  │  │          
+│  │  └─runtimes
+│  │      ├─x64
+│  │      │      liblept1760.dll
+│  │      │      libtesseract400.dll
+│  │      │      
+│  │      └─x86
+│  │              liblept1760.dll
+│  │              libtesseract400.dll
+│  │              
+│  ├─itext7.pdfocr.tesseract4.4.0.2
+│  │      .signature.p7s
+│  │      gnu-agpl-v3.0.md
+│  │      itext7.pdfocr.tesseract4.4.0.2.nupkg
+│  │      ITSC-avatar.png
+│  │      LICENSE.md
+│  │      NOTICE.txt
+│  │      
+│  ├─Microsoft.Bcl.AsyncInterfaces.5.0.0
+│  │  │  .signature.p7s
+│  │  │  Icon.png
+│  │  │  LICENSE.TXT
+│  │  │  Microsoft.Bcl.AsyncInterfaces.5.0.0.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  └─lib
+│  │      ├─net461
+│  │      │      Microsoft.Bcl.AsyncInterfaces.dll
+│  │      │      Microsoft.Bcl.AsyncInterfaces.xml
+│  │      │      
+│  │      ├─netstandard2.0
+│  │      │      Microsoft.Bcl.AsyncInterfaces.dll
+│  │      │      Microsoft.Bcl.AsyncInterfaces.xml
+│  │      │      
+│  │      └─netstandard2.1
+│  │              Microsoft.Bcl.AsyncInterfaces.dll
+│  │              Microsoft.Bcl.AsyncInterfaces.xml
+│  │              
+│  ├─Microsoft.Extensions.DependencyInjection.5.0.0
+│  │  │  .signature.p7s
+│  │  │  Icon.png
+│  │  │  LICENSE.TXT
+│  │  │  Microsoft.Extensions.DependencyInjection.5.0.0.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  └─lib
+│  │      ├─net461
+│  │      │      Microsoft.Extensions.DependencyInjection.dll
+│  │      │      Microsoft.Extensions.DependencyInjection.xml
+│  │      │      
+│  │      ├─net5.0
+│  │      │      Microsoft.Extensions.DependencyInjection.dll
+│  │      │      Microsoft.Extensions.DependencyInjection.xml
+│  │      │      
+│  │      ├─netstandard2.0
+│  │      │      Microsoft.Extensions.DependencyInjection.dll
+│  │      │      Microsoft.Extensions.DependencyInjection.xml
+│  │      │      
+│  │      └─netstandard2.1
+│  │              Microsoft.Extensions.DependencyInjection.dll
+│  │              Microsoft.Extensions.DependencyInjection.xml
+│  │              
+│  ├─Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0
+│  │  │  .signature.p7s
+│  │  │  Icon.png
+│  │  │  LICENSE.TXT
+│  │  │  Microsoft.Extensions.DependencyInjection.Abstractions.5.0.0.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  └─lib
+│  │      ├─net461
+│  │      │      Microsoft.Extensions.DependencyInjection.Abstractions.dll
+│  │      │      Microsoft.Extensions.DependencyInjection.Abstractions.xml
+│  │      │      
+│  │      └─netstandard2.0
+│  │              Microsoft.Extensions.DependencyInjection.Abstractions.dll
+│  │              Microsoft.Extensions.DependencyInjection.Abstractions.xml
+│  │              
+│  ├─Microsoft.Extensions.Logging.5.0.0
+│  │  │  .signature.p7s
+│  │  │  Icon.png
+│  │  │  LICENSE.TXT
+│  │  │  Microsoft.Extensions.Logging.5.0.0.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  └─lib
+│  │      ├─net461
+│  │      │      Microsoft.Extensions.Logging.dll
+│  │      │      Microsoft.Extensions.Logging.xml
+│  │      │      
+│  │      ├─netstandard2.0
+│  │      │      Microsoft.Extensions.Logging.dll
+│  │      │      Microsoft.Extensions.Logging.xml
+│  │      │      
+│  │      └─netstandard2.1
+│  │              Microsoft.Extensions.Logging.dll
+│  │              Microsoft.Extensions.Logging.xml
+│  │              
+│  ├─Microsoft.Extensions.Logging.Abstractions.5.0.0
+│  │  │  .signature.p7s
+│  │  │  Icon.png
+│  │  │  LICENSE.TXT
+│  │  │  Microsoft.Extensions.Logging.Abstractions.5.0.0.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  └─lib
+│  │      ├─net461
+│  │      │      Microsoft.Extensions.Logging.Abstractions.dll
+│  │      │      Microsoft.Extensions.Logging.Abstractions.xml
+│  │      │      
+│  │      └─netstandard2.0
+│  │              Microsoft.Extensions.Logging.Abstractions.dll
+│  │              Microsoft.Extensions.Logging.Abstractions.xml
+│  │              
+│  ├─Microsoft.Extensions.Options.5.0.0
+│  │  │  .signature.p7s
+│  │  │  Icon.png
+│  │  │  LICENSE.TXT
+│  │  │  Microsoft.Extensions.Options.5.0.0.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  └─lib
+│  │      ├─net461
+│  │      │      Microsoft.Extensions.Options.dll
+│  │      │      Microsoft.Extensions.Options.xml
+│  │      │      
+│  │      ├─net5.0
+│  │      │      Microsoft.Extensions.Options.dll
+│  │      │      Microsoft.Extensions.Options.xml
+│  │      │      
+│  │      └─netstandard2.0
+│  │              Microsoft.Extensions.Options.dll
+│  │              Microsoft.Extensions.Options.xml
+│  │              
+│  ├─Microsoft.Extensions.Primitives.5.0.0
+│  │  │  .signature.p7s
+│  │  │  Icon.png
+│  │  │  LICENSE.TXT
+│  │  │  Microsoft.Extensions.Primitives.5.0.0.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  └─lib
+│  │      ├─net461
+│  │      │      Microsoft.Extensions.Primitives.dll
+│  │      │      Microsoft.Extensions.Primitives.xml
+│  │      │      
+│  │      ├─netcoreapp3.0
+│  │      │      Microsoft.Extensions.Primitives.dll
+│  │      │      Microsoft.Extensions.Primitives.xml
+│  │      │      
+│  │      └─netstandard2.0
+│  │              Microsoft.Extensions.Primitives.dll
+│  │              Microsoft.Extensions.Primitives.xml
+│  │              
+│  ├─Newtonsoft.Json.13.0.3
+│  │  │  .signature.p7s
+│  │  │  LICENSE.md
+│  │  │  Newtonsoft.Json.13.0.3.nupkg
+│  │  │  packageIcon.png
+│  │  │  README.md
+│  │  │  
+│  │  └─lib
+│  │      ├─net20
+│  │      │      Newtonsoft.Json.dll
+│  │      │      Newtonsoft.Json.xml
+│  │      │      
+│  │      ├─net35
+│  │      │      Newtonsoft.Json.dll
+│  │      │      Newtonsoft.Json.xml
+│  │      │      
+│  │      ├─net40
+│  │      │      Newtonsoft.Json.dll
+│  │      │      Newtonsoft.Json.xml
+│  │      │      
+│  │      ├─net45
+│  │      │      Newtonsoft.Json.dll
+│  │      │      Newtonsoft.Json.xml
+│  │      │      
+│  │      ├─net6.0
+│  │      │      Newtonsoft.Json.dll
+│  │      │      Newtonsoft.Json.xml
+│  │      │      
+│  │      ├─netstandard1.0
+│  │      │      Newtonsoft.Json.dll
+│  │      │      Newtonsoft.Json.xml
+│  │      │      
+│  │      ├─netstandard1.3
+│  │      │      Newtonsoft.Json.dll
+│  │      │      Newtonsoft.Json.xml
+│  │      │      
+│  │      └─netstandard2.0
+│  │              Newtonsoft.Json.dll
+│  │              Newtonsoft.Json.xml
+│  │              
+│  ├─OpenCC.NET.1.0.1
+│  │  │  .signature.p7s
+│  │  │  OpenCC.NET.1.0.1.nupkg
+│  │  │  
+│  │  └─lib
+│  │      └─netstandard2.0
+│  │              OpenCC.NET.dll
+│  │              
+│  ├─Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0
+│  │  │  .signature.p7s
+│  │  │  Stub.System.Data.SQLite.Core.NetFramework.1.0.119.0.nupkg
+│  │  │  
+│  │  ├─build
+│  │  │  ├─net20
+│  │  │  │  │  Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │  │  │  
+│  │  │  │  ├─x64
+│  │  │  │  │      SQLite.Interop.dll
+│  │  │  │  │      
+│  │  │  │  └─x86
+│  │  │  │          SQLite.Interop.dll
+│  │  │  │          
+│  │  │  ├─net40
+│  │  │  │  │  Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │  │  │  
+│  │  │  │  ├─x64
+│  │  │  │  │      SQLite.Interop.dll
+│  │  │  │  │      
+│  │  │  │  └─x86
+│  │  │  │          SQLite.Interop.dll
+│  │  │  │          
+│  │  │  ├─net45
+│  │  │  │  │  Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │  │  │  
+│  │  │  │  ├─x64
+│  │  │  │  │      SQLite.Interop.dll
+│  │  │  │  │      
+│  │  │  │  └─x86
+│  │  │  │          SQLite.Interop.dll
+│  │  │  │          
+│  │  │  ├─net451
+│  │  │  │  │  Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │  │  │  
+│  │  │  │  ├─x64
+│  │  │  │  │      SQLite.Interop.dll
+│  │  │  │  │      
+│  │  │  │  └─x86
+│  │  │  │          SQLite.Interop.dll
+│  │  │  │          
+│  │  │  └─net46
+│  │  │      │  Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │      │  
+│  │  │      ├─x64
+│  │  │      │      SQLite.Interop.dll
+│  │  │      │      
+│  │  │      └─x86
+│  │  │              SQLite.Interop.dll
+│  │  │              
+│  │  ├─buildTransitive
+│  │  │  ├─net20
+│  │  │  │      Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │  │      
+│  │  │  ├─net40
+│  │  │  │      Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │  │      
+│  │  │  ├─net45
+│  │  │  │      Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │  │      
+│  │  │  ├─net451
+│  │  │  │      Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │  │      
+│  │  │  └─net46
+│  │  │          Stub.System.Data.SQLite.Core.NetFramework.targets
+│  │  │          
+│  │  └─lib
+│  │      ├─net20
+│  │      │      System.Data.SQLite.dll
+│  │      │      System.Data.SQLite.dll.altconfig.xml
+│  │      │      System.Data.SQLite.xml
+│  │      │      
+│  │      ├─net40
+│  │      │      System.Data.SQLite.dll
+│  │      │      System.Data.SQLite.dll.altconfig.xml
+│  │      │      System.Data.SQLite.xml
+│  │      │      
+│  │      ├─net45
+│  │      │      System.Data.SQLite.dll
+│  │      │      System.Data.SQLite.dll.altconfig.xml
+│  │      │      System.Data.SQLite.xml
+│  │      │      
+│  │      ├─net451
+│  │      │      System.Data.SQLite.dll
+│  │      │      System.Data.SQLite.dll.altconfig.xml
+│  │      │      System.Data.SQLite.xml
+│  │      │      
+│  │      └─net46
+│  │              System.Data.SQLite.dll
+│  │              System.Data.SQLite.dll.altconfig.xml
+│  │              System.Data.SQLite.xml
+│  │              
+│  ├─System.Buffers.4.5.1
+│  │  │  .signature.p7s
+│  │  │  LICENSE.TXT
+│  │  │  System.Buffers.4.5.1.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  ├─lib
+│  │  │  ├─net461
+│  │  │  │      System.Buffers.dll
+│  │  │  │      System.Buffers.xml
+│  │  │  │      
+│  │  │  ├─netcoreapp2.0
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─netstandard1.1
+│  │  │  │      System.Buffers.dll
+│  │  │  │      System.Buffers.xml
+│  │  │  │      
+│  │  │  ├─netstandard2.0
+│  │  │  │      System.Buffers.dll
+│  │  │  │      System.Buffers.xml
+│  │  │  │      
+│  │  │  └─uap10.0.16299
+│  │  │          _._
+│  │  │          
+│  │  └─ref
+│  │      ├─net45
+│  │      │      System.Buffers.dll
+│  │      │      System.Buffers.xml
+│  │      │      
+│  │      ├─netcoreapp2.0
+│  │      │      _._
+│  │      │      
+│  │      ├─netstandard1.1
+│  │      │      System.Buffers.dll
+│  │      │      System.Buffers.xml
+│  │      │      
+│  │      ├─netstandard2.0
+│  │      │      System.Buffers.dll
+│  │      │      System.Buffers.xml
+│  │      │      
+│  │      └─uap10.0.16299
+│  │              _._
+│  │              
+│  ├─System.Data.SQLite.Core.1.0.119.0
+│  │      .signature.p7s
+│  │      System.Data.SQLite.Core.1.0.119.0.nupkg
+│  │      
+│  ├─System.Diagnostics.DiagnosticSource.5.0.0
+│  │  │  .signature.p7s
+│  │  │  Icon.png
+│  │  │  LICENSE.TXT
+│  │  │  System.Diagnostics.DiagnosticSource.5.0.0.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  └─lib
+│  │      ├─net45
+│  │      │      System.Diagnostics.DiagnosticSource.dll
+│  │      │      System.Diagnostics.DiagnosticSource.xml
+│  │      │      
+│  │      ├─net46
+│  │      │      System.Diagnostics.DiagnosticSource.dll
+│  │      │      System.Diagnostics.DiagnosticSource.xml
+│  │      │      
+│  │      ├─net5.0
+│  │      │      System.Diagnostics.DiagnosticSource.dll
+│  │      │      System.Diagnostics.DiagnosticSource.xml
+│  │      │      
+│  │      ├─netstandard1.1
+│  │      │      System.Diagnostics.DiagnosticSource.dll
+│  │      │      System.Diagnostics.DiagnosticSource.xml
+│  │      │      
+│  │      ├─netstandard1.3
+│  │      │      System.Diagnostics.DiagnosticSource.dll
+│  │      │      System.Diagnostics.DiagnosticSource.xml
+│  │      │      
+│  │      └─portable-net45+win8+wpa81
+│  │              System.Diagnostics.DiagnosticSource.dll
+│  │              System.Diagnostics.DiagnosticSource.xml
+│  │              
+│  ├─System.Memory.4.5.4
+│  │  │  .signature.p7s
+│  │  │  LICENSE.TXT
+│  │  │  System.Memory.4.5.4.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  ├─lib
+│  │  │  ├─net461
+│  │  │  │      System.Memory.dll
+│  │  │  │      System.Memory.xml
+│  │  │  │      
+│  │  │  ├─netcoreapp2.1
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─netstandard1.1
+│  │  │  │      System.Memory.dll
+│  │  │  │      System.Memory.xml
+│  │  │  │      
+│  │  │  └─netstandard2.0
+│  │  │          System.Memory.dll
+│  │  │          System.Memory.xml
+│  │  │          
+│  │  └─ref
+│  │      └─netcoreapp2.1
+│  │              _._
+│  │              
+│  ├─System.Numerics.Vectors.4.5.0
+│  │  │  .signature.p7s
+│  │  │  LICENSE.TXT
+│  │  │  System.Numerics.Vectors.4.5.0.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  ├─lib
+│  │  │  ├─MonoAndroid10
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─MonoTouch10
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─net46
+│  │  │  │      System.Numerics.Vectors.dll
+│  │  │  │      System.Numerics.Vectors.xml
+│  │  │  │      
+│  │  │  ├─netcoreapp2.0
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─netstandard1.0
+│  │  │  │      System.Numerics.Vectors.dll
+│  │  │  │      System.Numerics.Vectors.xml
+│  │  │  │      
+│  │  │  ├─netstandard2.0
+│  │  │  │      System.Numerics.Vectors.dll
+│  │  │  │      System.Numerics.Vectors.xml
+│  │  │  │      
+│  │  │  ├─portable-net45+win8+wp8+wpa81
+│  │  │  │      System.Numerics.Vectors.dll
+│  │  │  │      System.Numerics.Vectors.xml
+│  │  │  │      
+│  │  │  ├─uap10.0.16299
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─xamarinios10
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─xamarinmac20
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─xamarintvos10
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  └─xamarinwatchos10
+│  │  │          _._
+│  │  │          
+│  │  └─ref
+│  │      ├─MonoAndroid10
+│  │      │      _._
+│  │      │      
+│  │      ├─MonoTouch10
+│  │      │      _._
+│  │      │      
+│  │      ├─net45
+│  │      │      System.Numerics.Vectors.dll
+│  │      │      System.Numerics.Vectors.xml
+│  │      │      
+│  │      ├─net46
+│  │      │      System.Numerics.Vectors.dll
+│  │      │      System.Numerics.Vectors.xml
+│  │      │      
+│  │      ├─netcoreapp2.0
+│  │      │      _._
+│  │      │      
+│  │      ├─netstandard1.0
+│  │      │      System.Numerics.Vectors.dll
+│  │      │      System.Numerics.Vectors.xml
+│  │      │      
+│  │      ├─netstandard2.0
+│  │      │      System.Numerics.Vectors.dll
+│  │      │      System.Numerics.Vectors.xml
+│  │      │      
+│  │      ├─uap10.0.16299
+│  │      │      _._
+│  │      │      
+│  │      ├─xamarinios10
+│  │      │      _._
+│  │      │      
+│  │      ├─xamarinmac20
+│  │      │      _._
+│  │      │      
+│  │      ├─xamarintvos10
+│  │      │      _._
+│  │      │      
+│  │      └─xamarinwatchos10
+│  │              _._
+│  │              
+│  ├─System.Runtime.CompilerServices.Unsafe.6.1.2
+│  │  │  .signature.p7s
+│  │  │  Icon.png
+│  │  │  PACKAGE.md
+│  │  │  System.Runtime.CompilerServices.Unsafe.6.1.2.nupkg
+│  │  │  
+│  │  ├─buildTransitive
+│  │  │  ├─net461
+│  │  │  │      System.Runtime.CompilerServices.Unsafe.targets
+│  │  │  │      
+│  │  │  ├─net462
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─net6.0
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  └─netcoreapp2.0
+│  │  │          System.Runtime.CompilerServices.Unsafe.targets
+│  │  │          
+│  │  └─lib
+│  │      ├─net462
+│  │      │      System.Runtime.CompilerServices.Unsafe.dll
+│  │      │      System.Runtime.CompilerServices.Unsafe.xml
+│  │      │      
+│  │      ├─net6.0
+│  │      │      System.Runtime.CompilerServices.Unsafe.dll
+│  │      │      System.Runtime.CompilerServices.Unsafe.xml
+│  │      │      
+│  │      ├─net7.0
+│  │      │      _._
+│  │      │      
+│  │      └─netstandard2.0
+│  │              System.Runtime.CompilerServices.Unsafe.dll
+│  │              System.Runtime.CompilerServices.Unsafe.xml
+│  │              
+│  ├─System.Threading.Tasks.Extensions.4.5.4
+│  │  │  .signature.p7s
+│  │  │  LICENSE.TXT
+│  │  │  System.Threading.Tasks.Extensions.4.5.4.nupkg
+│  │  │  THIRD-PARTY-NOTICES.TXT
+│  │  │  useSharedDesignerContext.txt
+│  │  │  version.txt
+│  │  │  
+│  │  ├─lib
+│  │  │  ├─MonoAndroid10
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─MonoTouch10
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─net461
+│  │  │  │      System.Threading.Tasks.Extensions.dll
+│  │  │  │      System.Threading.Tasks.Extensions.xml
+│  │  │  │      
+│  │  │  ├─netcoreapp2.1
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─netstandard1.0
+│  │  │  │      System.Threading.Tasks.Extensions.dll
+│  │  │  │      System.Threading.Tasks.Extensions.xml
+│  │  │  │      
+│  │  │  ├─netstandard2.0
+│  │  │  │      System.Threading.Tasks.Extensions.dll
+│  │  │  │      System.Threading.Tasks.Extensions.xml
+│  │  │  │      
+│  │  │  ├─portable-net45+win8+wp8+wpa81
+│  │  │  │      System.Threading.Tasks.Extensions.dll
+│  │  │  │      System.Threading.Tasks.Extensions.xml
+│  │  │  │      
+│  │  │  ├─xamarinios10
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─xamarinmac20
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  ├─xamarintvos10
+│  │  │  │      _._
+│  │  │  │      
+│  │  │  └─xamarinwatchos10
+│  │  │          _._
+│  │  │          
+│  │  └─ref
+│  │      ├─MonoAndroid10
+│  │      │      _._
+│  │      │      
+│  │      ├─MonoTouch10
+│  │      │      _._
+│  │      │      
+│  │      ├─netcoreapp2.1
+│  │      │      _._
+│  │      │      
+│  │      ├─xamarinios10
+│  │      │      _._
+│  │      │      
+│  │      ├─xamarinmac20
+│  │      │      _._
+│  │      │      
+│  │      ├─xamarintvos10
+│  │      │      _._
+│  │      │      
+│  │      └─xamarinwatchos10
+│  │              _._
+│  │              
+│  └─System.ValueTuple.4.5.0
+│      │  .signature.p7s
+│      │  LICENSE.TXT
+│      │  System.ValueTuple.4.5.0.nupkg
+│      │  THIRD-PARTY-NOTICES.TXT
+│      │  useSharedDesignerContext.txt
+│      │  version.txt
+│      │  
+│      ├─lib
+│      │  ├─MonoAndroid10
+│      │  │      _._
+│      │  │      
+│      │  ├─MonoTouch10
+│      │  │      _._
+│      │  │      
+│      │  ├─net461
+│      │  │      System.ValueTuple.dll
+│      │  │      System.ValueTuple.xml
+│      │  │      
+│      │  ├─net47
+│      │  │      System.ValueTuple.dll
+│      │  │      System.ValueTuple.xml
+│      │  │      
+│      │  ├─netcoreapp2.0
+│      │  │      _._
+│      │  │      
+│      │  ├─netstandard1.0
+│      │  │      System.ValueTuple.dll
+│      │  │      System.ValueTuple.xml
+│      │  │      
+│      │  ├─netstandard2.0
+│      │  │      _._
+│      │  │      
+│      │  ├─portable-net40+sl4+win8+wp8
+│      │  │      System.ValueTuple.dll
+│      │  │      System.ValueTuple.xml
+│      │  │      
+│      │  ├─uap10.0.16299
+│      │  │      _._
+│      │  │      
+│      │  ├─xamarinios10
+│      │  │      _._
+│      │  │      
+│      │  ├─xamarinmac20
+│      │  │      _._
+│      │  │      
+│      │  ├─xamarintvos10
+│      │  │      _._
+│      │  │      
+│      │  └─xamarinwatchos10
+│      │          _._
+│      │          
+│      └─ref
+│          ├─MonoAndroid10
+│          │      _._
+│          │      
+│          ├─MonoTouch10
+│          │      _._
+│          │      
+│          ├─net461
+│          │      System.ValueTuple.dll
+│          │      
+│          ├─net47
+│          │      System.ValueTuple.dll
+│          │      
+│          ├─netcoreapp2.0
+│          │      _._
+│          │      
+│          ├─netstandard2.0
+│          │      _._
+│          │      
+│          ├─portable-net40+sl4+win8+wp8
+│          │      System.ValueTuple.dll
+│          │      
+│          ├─uap10.0.16299
+│          │      _._
+│          │      
+│          ├─xamarinios10
+│          │      _._
+│          │      
+│          ├─xamarinmac20
+│          │      _._
+│          │      
+│          ├─xamarintvos10
+│          │      _._
+│          │      
+│          └─xamarinwatchos10
+│                  _._
+│                  
+└─寵物
+    │  App.config
+    │  Form1.cs
+    │  Form1.Designer.cs
+    │  Form1.resx
+    │  log.db
+    │  packages.config
+    │  Program.cs
+    │  s2t.json
+    │  寵物.csproj
+    │  寵物.csproj.user
+    │  螢幕擷取畫面 2025-05-20 211716.ico
+    │  
+    ├─bin
+    │  └─Debug
+    │      │  App.config
+    │      │  Form1.cs
+    │      │  Form1.Designer.cs
+    │      │  Form1.resx
+    │      │  itext.barcodes.dll
+    │      │  itext.barcodes.xml
+    │      │  itext.bouncy-castle-connector.dll
+    │      │  itext.bouncy-castle-connector.xml
+    │      │  itext.commons.dll
+    │      │  itext.commons.xml
+    │      │  itext.forms.dll
+    │      │  itext.forms.xml
+    │      │  itext.io.dll
+    │      │  itext.io.xml
+    │      │  itext.kernel.dll
+    │      │  itext.kernel.xml
+    │      │  itext.layout.dll
+    │      │  itext.layout.xml
+    │      │  itext.pdfa.dll
+    │      │  itext.pdfa.xml
+    │      │  itext.pdfocr.api.dll
+    │      │  itext.pdfocr.api.xml
+    │      │  itext.pdfocr.tesseract4.dll
+    │      │  itext.pdfocr.tesseract4.xml
+    │      │  itext.pdfua.dll
+    │      │  itext.pdfua.xml
+    │      │  itext.sign.dll
+    │      │  itext.sign.xml
+    │      │  itext.styledxmlparser.dll
+    │      │  itext.styledxmlparser.xml
+    │      │  itext.svg.dll
+    │      │  itext.svg.xml
+    │      │  log.db
+    │      │  Microsoft.Bcl.AsyncInterfaces.dll
+    │      │  Microsoft.Bcl.AsyncInterfaces.xml
+    │      │  Microsoft.Extensions.DependencyInjection.Abstractions.dll
+    │      │  Microsoft.Extensions.DependencyInjection.Abstractions.xml
+    │      │  Microsoft.Extensions.DependencyInjection.dll
+    │      │  Microsoft.Extensions.DependencyInjection.xml
+    │      │  Microsoft.Extensions.Logging.Abstractions.dll
+    │      │  Microsoft.Extensions.Logging.Abstractions.xml
+    │      │  Microsoft.Extensions.Logging.dll
+    │      │  Microsoft.Extensions.Logging.xml
+    │      │  Microsoft.Extensions.Options.dll
+    │      │  Microsoft.Extensions.Options.xml
+    │      │  Microsoft.Extensions.Primitives.dll
+    │      │  Microsoft.Extensions.Primitives.xml
+    │      │  Newtonsoft.Json.dll
+    │      │  Newtonsoft.Json.xml
+    │      │  OpenCC.NET.dll
+    │      │  s2t.json
+    │      │  System.Buffers.dll
+    │      │  System.Buffers.xml
+    │      │  System.Data.SQLite.dll
+    │      │  System.Data.SQLite.xml
+    │      │  System.Diagnostics.DiagnosticSource.dll
+    │      │  System.Diagnostics.DiagnosticSource.xml
+    │      │  System.Memory.dll
+    │      │  System.Memory.xml
+    │      │  System.Numerics.Vectors.dll
+    │      │  System.Numerics.Vectors.xml
+    │      │  System.Runtime.CompilerServices.Unsafe.dll
+    │      │  System.Runtime.CompilerServices.Unsafe.xml
+    │      │  System.Threading.Tasks.Extensions.dll
+    │      │  System.Threading.Tasks.Extensions.xml
+    │      │  System.ValueTuple.dll
+    │      │  System.ValueTuple.xml
+    │      │  Tesseract.dll
+    │      │  寵物.exe
+    │      │  寵物.exe.config
+    │      │  寵物.pdb
+    │      │  
+    │      ├─gifs
+    │      │  ├─cute
+    │      │  │      可愛.gif
+    │      │  │      可愛1.gif
+    │      │  │      可愛2.gif
+    │      │  │      可愛3.gif
+    │      │  │      
+    │      │  ├─f
+    │      │  │      1.gif
+    │      │  │      2.gif
+    │      │  │      封面1.gif
+    │      │  │      封面2.gif
+    │      │  │      封面3.gif
+    │      │  │      
+    │      │  ├─feed
+    │      │  │      吃 - 複製.gif
+    │      │  │      吃1 - 複製.gif
+    │      │  │      吃2 - 複製.gif
+    │      │  │      吃3 - 複製.gif
+    │      │  │      吃4 - 複製.gif
+    │      │  │      吃5 - 複製.gif
+    │      │  │      吃6 - 複製.gif
+    │      │  │      
+    │      │  ├─play
+    │      │  │      玩.gif
+    │      │  │      玩1.gif
+    │      │  │      玩2.gif
+    │      │  │      
+    │      │  └─rest
+    │      │          休息.gif
+    │      │          休息1.gif
+    │      │          休息2.gif
+    │      │          
+    │      ├─x64
+    │      │      liblept1760.dll
+    │      │      libtesseract400.dll
+    │      │      SQLite.Interop.dll
+    │      │      
+    │      └─x86
+    │              liblept1760.dll
+    │              libtesseract400.dll
+    │              SQLite.Interop.dll
+    │              
+    ├─obj
+    │  └─Debug
+    │          .NETFramework,Version=v4.7.2.AssemblyAttributes.cs
+    │          DesignTimeResolveAssemblyReferences.cache
+    │          DesignTimeResolveAssemblyReferencesInput.cache
+    │          寵物.csproj.AssemblyReference.cache
+    │          寵物.csproj.CoreCompileInputs.cache
+    │          寵物.csproj.FileListAbsolute.txt
+    │          寵物.csproj.GenerateResource.cache
+    │          寵物.csproj.Up2Date
+    │          寵物.exe
+    │          寵物.exe.config
+    │          寵物.Form1.resources
+    │          寵物.pdb
+    │          寵物.Properties.Resources.resources
+    │          
+    └─Properties
+            AssemblyInfo.cs
+            Resources.Designer.cs
+            Resources.resx
+            Settings.Designer.cs
+            Settings.settings
+            
